@@ -17,3 +17,5 @@
 
 ## Abra um PullRequest com suas alterações
 
+
+Estou gostando bastante do curso. Conteúdos TOP!!
